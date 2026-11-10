@@ -23,4 +23,4 @@ Abra o arquivo `index.html` no navegador. Não é necessário instalar dependên
 - [LinkedIn](https://www.linkedin.com/in/guilherme-s-domingues-433950374/)
 - [GitHub](https://github.com/GuilhermeSSD)
 - E-mail: guilhermesdomingues31@gmail.com
-- 
+
