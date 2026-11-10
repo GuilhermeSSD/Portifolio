@@ -1,0 +1,11 @@
+PORTFÓLIO — GUILHERME
+
+Abra index.html no navegador. Não exige instalação, internet ou servidor para visualizar. Os links do GitHub exigem conexão.
+
+index.html: conteúdo e estrutura
+style.css: cores, tipografia e layout responsivo
+script.js: menu e detalhes dos projetos
+assets/: imagens copiadas dos repositórios locais
+
+Os projetos são apresentados com descrição e links aos repositórios; seus servidores e bancos de dados não estão incorporados ao portfólio.
+Contato: LinkedIn e e-mail informados pelo titular. Para editar, altere os links em index.html.
